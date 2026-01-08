@@ -30,4 +30,5 @@ This project demonstrates how to build RESTful APIs using Spring Boot with prope
 ---
 
 ## 📂 Project Structure
+postman collection: https://web.postman.co/workspace/My-Workspace~77ec7492-1a38-4603-84b9-b2aa606331b3/collection/34437151-7240bc3d-263e-4120-b41c-e4313ca3cfd0?action=share&source=copy-link&creator=34437151
 
